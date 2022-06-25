@@ -1,5 +1,5 @@
 # Ninja
-Ninja is a slack bot. 
+Ninja is a simple slack bot that can send welcome messages, display message counts, schedule, delete messages and can respond to reactions as well😎.
 
 The code requires .env file to function completely. It has been removed due to security issues.
 
